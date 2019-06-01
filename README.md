@@ -1,7 +1,7 @@
 
 
 
-                        Kureghor 
+                      VIRTUAL CLASSROOM   
 
 Its a college project for Housing Management System for manage existing and new member of an society.
 
@@ -11,7 +11,7 @@ INSTALLING INSTRUCTION:
 
 Clone this repository
 
-  -> git clone https://github.com/ranajitnath7/VirtualClassroom.git
+  -> git clone https://github.com/AneekHait/VirtualClassroom.git
 
 Change to VirtualClassroom directory
 
