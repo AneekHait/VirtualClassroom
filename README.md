@@ -3,7 +3,7 @@
 
                       VIRTUAL CLASSROOM   
 
-Its a college project for Housing Management System for manage existing and new member of an society.
+Its a college project for a Virtual Classroom
 
 INSTALLING INSTRUCTION:
 
