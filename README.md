@@ -47,4 +47,5 @@ Finally, to run project
 
   ->  python manage.py runserver
 
-We are working hard to fix exiting bugs and implementing new features. You can also welcome to contribute this project.
+We are working hard to fix existing bugs and implementing new features. You are also welcome to contribute towards this project.
+Thank You.
