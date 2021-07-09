@@ -3,7 +3,7 @@
 
                       VIRTUAL CLASSROOM   
 
-Its a college project for a Virtual Classroom
+It is a college project for a Virtual Classroom base on Django Framework.
 
 INSTALLING INSTRUCTION:
 
